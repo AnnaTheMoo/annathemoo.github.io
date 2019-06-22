@@ -4,4 +4,4 @@
 layout: default
 ---
 
-example homepage
+Intentional, Ethical, Minimal, Sustainable.
